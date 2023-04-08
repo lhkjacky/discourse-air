@@ -128,6 +128,10 @@
   }
   .category-list-item.category {
     background-color: var(--secondary);
+    border-radius: 1em;
+  }
+  .category-boxes-with-topics .category-box {
+    background-color: var(--secondary);
   }
 }
 
