@@ -126,6 +126,9 @@
   .list-controls .nav-pills .drop li:first-of-type {
     display: none;
   }
+  .category-list-item.category {
+    background-color: black;
+  }
 }
 
 input[type="text"],
