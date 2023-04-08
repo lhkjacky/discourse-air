@@ -137,6 +137,9 @@
     color: black;
     /* background-color: black; */
   }
+  .topic-list .num.posts-map button {
+    color: var(--primary);
+  }
 }
 
 input[type="text"],
