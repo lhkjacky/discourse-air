@@ -141,6 +141,9 @@
    /* color: var(--primary);*/
     display:none;
   }
+  tr.category-topic-link {
+    display: none;
+  }
 }
 
 input[type="text"],
