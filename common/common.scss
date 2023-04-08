@@ -138,7 +138,8 @@
     /* background-color: black; */
   }
   .topic-list .num.posts-map button {
-    color: var(--primary);
+   /* color: var(--primary);*/
+    display:none;
   }
 }
 
